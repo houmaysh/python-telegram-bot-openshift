@@ -1,3 +1,30 @@
+
+Skip to content
+This repository
+
+    Pull requests
+    Issues
+    Gist
+
+    @AliYazdani67
+
+2
+4
+
+    1
+
+lufte/python-telegram-bot-openshift
+Code
+Issues 0
+Pull requests 0
+Projects 0
+Wiki
+Pulse
+Graphs
+python-telegram-bot-openshift/bot.py
+d8ea31b 29 days ago
+@lufte lufte Resolve #1.
+63 lines (53 sloc) 1.9 KB
 # Copyright (C) 2016 Javier Ayres
 #
 # This file is part of python-telegram-bot-openshift.
@@ -21,7 +48,7 @@ from threading import Thread
 from telegram import Bot
 from telegram.ext import Dispatcher, MessageHandler, Updater
 
-TOKEN = 'your-token-here'
+TOKEN = '295094626:AAEuQ85OoDlKPHzCzJ0ZyBLxjZG7fKyplUI'
 
 
 def example_handler(bot, update):
@@ -60,3 +87,8 @@ def setup(webhook_url=None):
 
 if __name__ == '__main__':
     setup()
+
+    Contact GitHub API Training Shop Blog About 
+
+    © 2016 GitHub, Inc. Terms Privacy Security Status Help 
+
